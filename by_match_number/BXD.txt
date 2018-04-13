@@ -1,0 +1,20 @@
+=== MATCH SCHEDULE FOR BXD ===
+BXD2   | 12:00 noon - 12:30 PM | Court 3
+BXD4   | 12:00 noon - 12:30 PM | Court 6
+BXD5   | 02:00 PM - 02:30 PM | Court 8
+BXD6   | 02:00 PM - 02:30 PM | Court 9
+BXD7   | 12:00 noon - 12:30 PM | Court 7
+BXD9   | 02:30 PM - 03:00 PM | Court 5
+BXD10  | 02:40 PM - 03:10 PM | Court 3
+BXD11  | 03:40 PM - 04:10 PM | Court 6
+BXD12  | 02:40 PM - 03:10 PM | Court 6
+BXD13  | 05:50 PM - 06:20 PM | Court 3
+BXD14  | 05:50 PM - 06:20 PM | Court 6
+BXD15  | 07:00 PM - 07:30 PM | Court 6
+BXD18  | 05:10 PM - 05:20 PM | Court 7
+BXD20  | 05:10 PM - 05:20 PM | Court 8
+BXD21  | 05:10 PM - 05:20 PM | Court 9
+BXD23  | 05:10 PM - 05:20 PM | Court 1
+BXD24  | 06:20 PM - 06:30 PM | Court 12
+BXD25  | 06:20 PM - 06:30 PM | Court 8
+BXD26  | 07:00 PM - 07:30 PM | Court 7

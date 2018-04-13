@@ -1,0 +1,11 @@
+=== MATCH SCHEDULE FOR ABWS ===
+09:00 AM - 09:30 AM | ABWS1  | Court 1
+09:00 AM - 09:30 AM | ABWS2  | Court 2
+12:30 PM - 01:00 PM | ABWS3  | Court 1
+12:30 PM - 01:00 PM | ABWS4  | Court 2
+03:00 PM - 03:30 PM | ABWS5  | Court 4
+03:00 PM - 03:30 PM | ABWS6  | Court 5
+05:20 PM - 05:50 PM | ABWS8  | Court 1
+05:40 PM - 06:10 PM | ABWS7  | Court 2
+06:40 PM - 07:10 PM | ABWS9  | Court 2
+06:40 PM - 07:10 PM | ABWS10 | Court 4

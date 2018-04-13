@@ -1,0 +1,20 @@
+=== MATCH SCHEDULE FOR DWS ===
+11:30 AM - 12:00 noon | DWS2   | Court 4
+11:30 AM - 12:00 noon | DWS4   | Court 5
+12:00 noon - 12:30 PM | DWS7   | Court 10
+12:00 noon - 12:30 PM | DWS5   | Court 12
+12:00 noon - 12:30 PM | DWS6   | Court 8
+02:30 PM - 03:00 PM | DWS9   | Court 8
+02:30 PM - 03:00 PM | DWS10  | Court 9
+02:30 PM - 03:00 PM | DWS12  | Court 1
+02:40 PM - 03:10 PM | DWS11  | Court 10
+04:40 PM - 04:50 PM | DWS18  | Court 7
+04:40 PM - 04:50 PM | DWS20  | Court 8
+04:40 PM - 04:50 PM | DWS21  | Court 9
+04:40 PM - 04:50 PM | DWS23  | Court 5
+05:10 PM - 05:40 PM | DWS13  | Court 2
+05:10 PM - 05:40 PM | DWS14  | Court 4
+05:50 PM - 06:00 PM | DWS24  | Court 12
+05:50 PM - 06:00 PM | DWS25  | Court 7
+06:20 PM - 06:50 PM | DWS15  | Court 9
+06:20 PM - 06:50 PM | DWS26  | Court 1

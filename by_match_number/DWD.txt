@@ -1,0 +1,27 @@
+=== MATCH SCHEDULE FOR DWD ===
+DWD8   | 10:30 AM - 11:00 AM | Court 5
+DWD9   | 11:00 AM - 11:30 AM | Court 10
+DWD17  | 12:00 noon - 12:30 PM | Court 7
+DWD18  | 12:00 noon - 12:30 PM | Court 8
+DWD19  | 12:00 noon - 12:30 PM | Court 9
+DWD20  | 12:00 noon - 12:30 PM | Court 1
+DWD21  | 12:00 noon - 12:30 PM | Court 2
+DWD22  | 12:00 noon - 12:30 PM | Court 4
+DWD23  | 12:00 noon - 12:30 PM | Court 5
+DWD24  | 12:30 PM - 01:00 PM | Court 10
+DWD25  | 01:40 PM - 02:10 PM | Court 2
+DWD26  | 01:40 PM - 02:10 PM | Court 4
+DWD27  | 02:00 PM - 02:30 PM | Court 5
+DWD28  | 02:10 PM - 02:40 PM | Court 10
+DWD29  | 03:20 PM - 03:50 PM | Court 9
+DWD30  | 03:20 PM - 03:50 PM | Court 1
+DWD31  | 04:10 PM - 04:40 PM | Court 8
+DWD43  | 03:00 PM - 03:10 PM | Court 10
+DWD44  | 03:00 PM - 03:10 PM | Court 11
+DWD48  | 03:10 PM - 03:20 PM | Court 9
+DWD49  | 03:30 PM - 03:40 PM | Court 10
+DWD50  | 03:30 PM - 03:40 PM | Court 11
+DWD51  | 03:10 PM - 03:20 PM | Court 1
+DWD52  | 04:00 PM - 04:10 PM | Court 10
+DWD53  | 04:00 PM - 04:10 PM | Court 3
+DWD54  | 04:30 PM - 05:00 PM | Court 2
